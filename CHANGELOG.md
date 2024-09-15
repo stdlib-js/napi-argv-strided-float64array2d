@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-08)
+## Unreleased (2024-09-15)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8f745c7`](https://github.com/stdlib-js/stdlib/commit/8f745c734da22e26a4c5e6bbaf9ab20d991e5a63) - **test:** fix descriptions _(by Athan Reines)_
 -   [`6ccbed0`](https://github.com/stdlib-js/stdlib/commit/6ccbed041b34b95f10ac80330eeebd48d73153dd) - **docs:** fix grammar in comments _(by Athan Reines)_
 -   [`e74ff00`](https://github.com/stdlib-js/stdlib/commit/e74ff0063ef3875807d2bc722117cbf78340c096) - **docs:** fix grammar in comments _(by Athan Reines)_
 -   [`785a438`](https://github.com/stdlib-js/stdlib/commit/785a43847b116927f8dc0b1e7f5e5231dbaf7939) - **feat:** add `napi/argv-strided-float64array2d` _(by Athan Reines)_
